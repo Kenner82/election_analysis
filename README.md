@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 
@@ -32,4 +32,8 @@ Using repetition statements, conditional statements with logical operators, and 
 
 ## Summary
 
-This code can easily be reconfigured to work for any kind of election. For this analysis it broke down results by candidate and county, but it could break down voter turnout by any metric that is collected (e.g., by gender, socio-economic status, language spoken, etc.). This could help candidates evaluate how they performed with different demographics, so they know which outreach programs to focus on in the future or which methods provided them with measurable results.
+This code can easily be reconfigured to work for any kind of election. 
+### Demographic Breakdowns
+In this analysis we broke down the voting results by candidate and county, but we could also delve into voter turnout by any metric that is collected (e.g., by gender, socio-economic status, language spoken, etc.). This could help candidates evaluate how they performed with different demographics, to determine which outreach programs to focus on in the future or how their previous actions informed voter turnout amongst various groups.
+### Ballot Measures 
+This code could also be used to determine the factors influencing other kinds of elections, such as voting turnout and demographic breakdown for ballot measures. Knowing your kind and level of public support can inform decisions regarding advertising methods and budgeting, copyediting, and lobbying measures. 
