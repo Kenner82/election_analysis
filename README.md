@@ -13,3 +13,19 @@ A Colorado Board of Elections employee provided the following tasks to complete 
 7. Calculate the percentage of votes from each county out of the total votes.
 8. Determine the county with the highest voter turnout.
 
+## Election-Audit Results
+
+<img width="308" alt="Election_Analysis_Results" src="https://user-images.githubusercontent.com/111674383/192357951-07937d3d-7bd3-43ba-a712-5bb2d30cd9b8.png">
+
+Using repetition statements, conditional statements with logical operators, and print statements, we were able to calculate the following:
+* 369,711 total votes were cast in the election
+* **County Breakdown:**
+  * Jeffereson County was responsible for 10.5% of the votes with 38,855
+  * Denver County provided 82.8% of the total votes with 306,055
+  * Arapahoe County came in at 6.7% of the total votes with 24,801
+  * **Denver County had the largest number of votes**
+* **Candidate Breakdown:**
+  * Charles Casper Stockham received 23.0% of the votes with 85,213
+  * Diana DeGette got 73.8% of the total votes with 272,892
+  * Raymon Anthony Doane had 3.1% of the votes with 11,606
+  * **Diane DeGette won the election, receiving 272,892 votes (73.8% of the total votes)**
