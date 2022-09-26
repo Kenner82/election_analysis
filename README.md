@@ -29,3 +29,7 @@ Using repetition statements, conditional statements with logical operators, and 
   * Diana DeGette got 73.8% of the total votes with 272,892
   * Raymon Anthony Doane had 3.1% of the votes with 11,606
   * **Diane DeGette won the election, receiving 272,892 votes (73.8% of the total votes)**
+
+## Summary
+
+This code can easily be reconfigured to work for any kind of election. For this analysis it broke down results by candidate and county, but it could break down voter turnout by any metric that is collected (e.g., by gender, socio-economic status, language spoken, etc.). This could help candidates evaluate how they performed with different demographics, so they know which outreach programs to focus on in the future or which methods provided them with measurable results.
